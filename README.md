@@ -6,6 +6,15 @@ Examples of Spring Boot features include diagnostic checks, production-ready met
   
 *Note: Spring differs from Spring Boot in that it is a configuration framework that empowers enterprise Java app developers with flexible, ready-to-use controls and boilerplate code that make apps quicker and simpler to setup, allowing developers to focus more on the other aspects of development. The Spring Boot framework is assembled 'on top of' it, with extra features (such as additional configuration tools) that make generating stand-alone/autonomous apps even more convenient to setup and configure.*
 
+#### Table of Contents:
+
+1. Dispatcher Servlets
+2. Spring Servlet XML Configuration
+3. Controllers
+4. Models
+5. Autowiring
+6. RESTful Service URLs 
+    
 <hr />
   
 ## 1. Dispatcher Servlets
