@@ -8,46 +8,46 @@ Examples of Spring Boot features include diagnostic checks, production-ready met
 
 #### Table of Contents:
 
-1. Dispatcher Servlets
-2. Spring Servlet XML Configuration
-3. Controllers
-4. Models
-5. Autowiring
-6. RESTful Service URLs 
+1. [Dispatcher Servlets](#dispatcher-servlets)
+2. [Spring Servlet XML Configuration](#xml-config)
+3. [Controllers](#controllers)
+4. [Models](#models)
+5. [Autowiring](#autowiring)
+6. [RESTful Service URLs](#restful-service-urls)
     
 <hr />
   
-## 1. Dispatcher Servlets
+## 1. <a name="dispatcher-servlets">Dispatcher Servlets</a>
   
 Dispatcher servlets are utilized when handling incoming requests and routing them via Spring.
   
 <hr />
 
-## 2. Spring Servlet XML Configuration
+## 2. <a name="xml-config">Spring Servlet XML Configuration</a>
   
 Spring is configured to search for a *servletname-servlet.xml* file in a folder called */WEB-INF*.
   
 <hr />
 
-## 3. Controllers
+## 3. <a name="controllers">Controllers</a>
   
 Controllers can be utilized to retrieve classes and the objects associated within a class.
   
 <hr />
   
-## 4. Models
+## 4. <a name="models">Models</a>
   
 Models allow for objects to be passed from controllers into views.
   
 <hr />
 
-## 5. Autowiring  
+## 5. <a name="autowiring">Autowiring</a>
   
 Autowiring enables Spring to instantiate a class. The class's methods become accessible at runtime via *dependency injection*.
   
 <hr />
 
-## 6. RESTful Service URLs
+## 6. <a name="restful-service-urls">RESTful Service URLs</a>
 
 These allow for CRUD database operations (creating, reading, updating, deleting) to be accomplished through HTTP methods (such as GET, POST, PUT, and DELETE).
 
