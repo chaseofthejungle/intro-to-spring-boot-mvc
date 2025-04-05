@@ -14,6 +14,7 @@ Examples of Spring Boot features include diagnostic checks, production-ready met
 4. [Models](#models)
 5. [Autowiring](#autowiring)
 6. [RESTful Service URLs](#restful-service-urls)
+7. [Supplemental Resources](#supplemental)
     
 <hr />
   
@@ -51,6 +52,13 @@ Autowiring enables Spring to instantiate a class. The class's methods become acc
 
 These allow for CRUD database operations (creating, reading, updating, deleting) to be accomplished through HTTP methods (such as GET, POST, PUT, and DELETE).
 
+<hr />
+  
+## 7. <a name="supplemental">Supplemental Resources</a>
+  
+* [Intro to Spring Boot Overview Guide](https://github.com/chaseofthejungle/intro-to-spring-boot)
+* [Spring Annotations Guide](https://github.com/chaseofthejungle/spring-annotations-guide)
+  
 <hr />
   
 TODO: Details for each section, including code examples as relevant.
