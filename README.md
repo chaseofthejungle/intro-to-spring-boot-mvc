@@ -56,9 +56,10 @@ These allow for CRUD database operations (creating, reading, updating, deleting)
   
 ## 7. <a name="supplemental">Supplemental Resources</a>
   
-* [Intro to Spring Boot Overview Guide](https://github.com/chaseofthejungle/intro-to-spring-boot)
-* [Spring Annotations Guide](https://github.com/chaseofthejungle/spring-annotations-guide)
-  
+* *[Intro to Spring Boot Overview Guide](https://github.com/chaseofthejungle/intro-to-spring-boot)*
+* *[Spring Annotations Guide](https://github.com/chaseofthejungle/spring-annotations-guide)*
+* *[Official Spring Boot Website](https://spring.io/projects/spring-boot)*
+    
 <hr />
   
 TODO: Details for each section, including code examples as relevant.
